@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/janssen-lau-b22a28265">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="./Janssen_Lau_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View resume PDF" />
+  </a>
   <img src="https://img.shields.io/badge/Location-Southeast%20Asia-2E8B57?style=for-the-badge" alt="Southeast Asia" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-6C63FF?style=for-the-badge" alt="Open to remote roles" />
 </p>

@@ -1,105 +1,77 @@
-# Hi, I'm Janssen Lau
+<h1 align="center">Hi, I'm Janssen Lau 👋</h1>
 
-Software engineer with experience in full-stack product development, startup engineering, and test automation. I enjoy taking features from an early product idea through API and data-model design, implementation, testing, and production delivery.
+<p align="center">
+  <strong>Product-minded Software Engineer</strong><br />
+  Full-stack development · Test automation · Fintech · Quantitative trading
+</p>
 
-- Computer Science graduate from the National University of Singapore
-- Former Product Engineer at Gotrade
-- Experience across fintech, mobile automation, developer tools, and quantitative trading
-- Interested in full-stack, backend, AI engineering, automation, and DevOps roles
-- Based in Southeast Asia and open to remote opportunities
+<p align="center">
+  <a href="https://www.linkedin.com/in/janssen-lau-b22a28265">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Southeast%20Asia-2E8B57?style=for-the-badge" alt="Southeast Asia" />
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-6C63FF?style=for-the-badge" alt="Open to remote roles" />
+</p>
 
-## Professional Experience
+## 🚀 About Me
 
-### Product Engineer - Gotrade
+- 🎓 Computer Science graduate from the **National University of Singapore**
+- 💳 Former **Product Engineer at Gotrade**, building fintech features in a small startup team
+- 🧪 Experienced in full-stack development, API design, data modeling, and test automation
+- 🤖 Exploring AI agents, RAG, cloud infrastructure, and production DevOps
 
-Worked in a startup product team of fewer than ten people, building features and resolving problems across the application stack.
+## 💼 Experience
 
-- Helped develop **Grow**, a yield-incentive feature for customers' unused cash balances.
-- Translated product requirements into a database schema, backend APIs, and implementation tasks.
-- Evaluated performance improvements such as Redis caching for frequently accessed data.
-- Investigated bugs, improved application performance, and supported existing product functionality.
-- Documented technical proposals and discussed design trade-offs before implementation.
+### Gotrade · Product Engineer
 
-### Test Automation Engineer Intern - SPH Media
+Built product features across APIs, data models, performance, and production debugging. Helped develop **Grow**, a yield-incentive feature for unused customer cash, and evaluated optimizations such as Redis caching.
 
-Improved the speed, reliability, and maintainability of mobile regression testing.
+### SPH Media · Test Automation Engineer Intern
 
-- Converted more than **100 manual mobile test cases** into Java and Appium automation.
-- Diagnosed and stabilized more than **40 flaky Selenium tests**.
-- Helped reduce regression execution time from **four hours to one** by parallelizing CI test groups.
-- Centralized repeated waits and UI actions to make the automation suite easier to maintain.
+- Automated **100+** mobile test cases with Java and Appium
+- Stabilized **40+** flaky Selenium tests
+- Helped cut regression time from **4 hours to 1** through CI parallelization
 
-## Startup Engineering
+> I enjoy startup environments where engineers clarify messy requirements, propose practical designs, and own features through delivery.
 
-I am comfortable working in small teams where requirements can evolve and engineers take broad ownership. My usual approach is to clarify the user problem, propose the simplest viable design, document the trade-offs, get early feedback, and then iterate using production behavior and test results.
+## 🛠️ Toolbox
 
-This experience has involved more than writing isolated code: it includes understanding product requirements, designing APIs and data models, debugging across system boundaries, reviewing implementation choices, and communicating progress clearly.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nextjs,nodejs,postgres,redis,docker,git,githubactions" alt="TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, PostgreSQL, Redis, Docker, Git, and GitHub Actions" />
+</p>
 
-## Selected Software Projects
+`REST APIs` · `SQL` · `Prisma` · `React Native` · `Tailwind CSS` · `Jest` · `Playwright` · `Selenium` · `Appium` · `Postman`
 
-### [Duke Chatbot](https://github.com/kanna-1/ip)
+## ✨ Featured Projects
 
-A lightweight Java chatbot that accepts command-line instructions, manages tasks, persists data locally, and handles invalid input with clear feedback.
+| Project | What it demonstrates |
+|---|---|
+| 🤖 **[Duke Chatbot](https://github.com/kanna-1/ip)** | Java CLI chatbot with task management, local persistence, error handling, and tests |
+| 🏥 **[HealthSync](https://github.com/kanna-1/tp)** | Brownfield Java/JavaFX patient-management application with CI |
+| 📚 **[MindMeld](https://github.com/kanna-1/MindMeld)** | React Native study companion using Firebase, Supabase, Redux, and Jest |
+| 🧑‍💻 **[ITS Frontend Manager](https://github.com/kanna-1/its-frontend-manager)** | Next.js autograder platform with authentication, grading, admin tools, PostgreSQL, Docker, and Jest |
 
-**Built with:** Java, Gradle, JUnit, and file-based persistence.
+## 📈 Trading Algorithms
 
-### [HealthSync](https://github.com/kanna-1/tp)
+### [IMC Prosperity 4 · Team 88th Street](https://github.com/concentratedsulfuricacid/imc-prosperity-4)
 
-A brownfield Java desktop application extended into a patient-management tool for recording patient details, medical history, ward information, and appointments.
+<p>
+  <img src="https://img.shields.io/badge/Global-53rd-1F6FEB?style=flat-square" alt="53rd globally" />
+  <img src="https://img.shields.io/badge/Singapore-1st-EA4335?style=flat-square" alt="1st in Singapore" />
+  <img src="https://img.shields.io/badge/Asia-5th-F9AB00?style=flat-square" alt="5th in Asia" />
+</p>
 
-**Built with:** Java, JavaFX, Gradle, JUnit, and GitHub Actions.
-
-### [MindMeld](https://github.com/kanna-1/MindMeld)
-
-A mobile study application for planning sessions, studying with peers, managing notes and tasks, and tracking achievements.
-
-**Built with:** React Native, Expo, Firebase, Supabase, Redux, Jest, and React Native Testing Library.
-
-### [ITS Frontend Manager](https://github.com/kanna-1/its-frontend-manager)
-
-A web platform deployed on Vercel for managing an autograder system, including authentication, courses, users, programming submissions, grading, feedback, and API documentation.
-
-**Built with:** Next.js 14, TypeScript, PostgreSQL, Prisma, NextAuth, Tailwind CSS, Swagger, Docker, and Jest.
-
-## Trading Algorithms And Research
-
-### [IMC Prosperity 4 - Team 88th Street](https://github.com/concentratedsulfuricacid/imc-prosperity-4)
-
-Designed and iterated on algorithmic and manual trading strategies across five competition rounds. Our work covered market making, statistical arbitrage, option-chain analysis, volatility smiles, theoretical pricing, execution, backtesting, and inventory-risk management.
-
-- **53rd out of more than 18,000 teams globally**
-- **1st in Singapore**
-- **5th in Asia**
-- Used explainable strategies including anchored fair values, EMAs, pair spreads, regime rules, synthetic valuation, and target-position systems.
-- Prioritized parameter stability and market-structure reasoning over narrow backtest optimization.
+Market making, statistical arbitrage, volatility-smile analysis, options pricing, pair spreads, backtesting, execution, and inventory-risk management across five competition rounds.
 
 ### [88th Meridian](https://github.com/concentratedsulfuricacid/88th_meridian)
 
-A Python spread-capture trading bot built for the Roostoo trading competition. The system manages limit-order entry and exit, fill timeouts, exchange rate limits, recovery behavior, persistent state, CSV telemetry, and operational monitoring.
+Python spread-capture bot with limit-order execution, fill recovery, rate-limit protection, persistent state, CSV telemetry, and an operational dashboard.
 
-**Built with:** Python, REST APIs, exchange order management, persistent state, and a monitoring dashboard.
+## 🌱 Current Focus
 
-## Technical Skills
+`AI agents` · `LLM tool calling` · `RAG and evaluation` · `Cloud infrastructure` · `DevOps automation`
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL, HTML, CSS
-
-**Frontend:** React, Next.js, React Native, Tailwind CSS
-
-**Backend and data:** Node.js, REST APIs, PostgreSQL, MySQL, Prisma, Redis
-
-**Testing:** Jest, Vitest, Playwright, Selenium, Appium, Postman
-
-**Tools and delivery:** Git, GitHub Actions, Docker, Linux, Vercel
-
-**Concepts:** API design, relational data modeling, authentication, CI/CD, automated testing, performance optimization, market making, statistical arbitrage, and options pricing
-
-## Currently Exploring
-
-- AI agents and LLM tool calling
-- Retrieval-augmented generation and evaluation
-- Cloud infrastructure and production DevOps practices
-- Reliable automation for real business workflows
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/janssen-lau-b22a28265)
+<p align="center">
+  <strong>Thanks for stopping by.</strong><br />
+  <a href="https://www.linkedin.com/in/janssen-lau-b22a28265">Let's connect on LinkedIn</a>
+</p>
